@@ -2,6 +2,7 @@
 
 <head>
     <meta charset="utf-8">
+     <link rel="stylesheet" href="Main.css" media="all">
     <title>Google </title>
     </head>
   <body>
